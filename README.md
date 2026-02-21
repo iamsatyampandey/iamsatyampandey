@@ -1,16 +1,16 @@
-# Hi, I'm Satyam Pandey 👋
+# Hi, I'm Satyam Pandey
 
-🎓 B.Tech Student | Aspiring Data Scientist  
-🐍 Learning Python, Data Science & Machine Learning  
+B.Tech Student | Aspiring Data Scientist  
+Learning Python, Data Science & Machine Learning  
 
 ---
 
 ## About Me
 
-- 📊 Currently learning Data Science & Analytics
-- 💻 Practicing Python regularly
-- 📈 Interested in Machine Learning & AI
-- 🌱 Improving step by step every day
+- Currently learning Data Science & Analytics
+- Practicing Python regularly
+- Interested in Machine Learning & AI
+- Improving step by step every day
 
 ---
 
