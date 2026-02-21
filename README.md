@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 📊 Currently learning Data Science & Analytics
 - 💻 Practicing Python regularly
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Jupyter Notebook / JupyterLab
@@ -24,7 +24,7 @@
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 
 - Data Cleaning & Analysis  
 - Python for Data Science  
@@ -33,23 +33,23 @@
 
 ---
 
-## 📌 Learning Journey
+## Learning Journey
 
 I am documenting my learning journey on GitHub and
 will be uploading projects and notebooks regularly.
 
-Stay tuned 🚀
+Stay tuned 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/iamsatyampandey
 - LinkedIn: https://www.linkedin.com/in/whosatyampandey/
 
 ---
 
-⭐ "Consistency beats talent when talent doesn’t work hard."
+"Consistency beats talent when talent doesn’t work hard."
 ---
 
 ## 🐍 Contribution Snake
