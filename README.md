@@ -52,6 +52,3 @@ Stay tuned
 "Consistency beats talent when talent doesn’t work hard."
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/iamsatyampandey/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg)
