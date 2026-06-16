@@ -19,7 +19,7 @@ Learning Python, Data Science & Machine Learning
 - Python
 - Jupyter Notebook / JupyterLab
 - VS Code
-- Pandas, NumPy (Learning)
+- Pandas, NumPy 
 - Matplotlib, Seaborn (Learning)
 
 ---
