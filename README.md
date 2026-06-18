@@ -1,6 +1,6 @@
 # Hi, I'm Satyam Pandey
 
-B.Tech Student | Aspiring Data Scientist  
+B.Tech Student | Data Scientist  
 Learning Python, Data Science & Machine Learning  
 
 ---
