@@ -20,7 +20,7 @@ Learning Python, Data Science & Machine Learning
 - Jupyter Notebook / JupyterLab
 - VS Code
 - Pandas, NumPy 
-- Matplotlib, Seaborn (Learning)
+- Matplotlib, Seaborn
 
 ---
 
